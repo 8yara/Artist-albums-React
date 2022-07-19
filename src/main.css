@@ -1,0 +1,48 @@
+img {
+    display: block;
+}
+
+.thumbnail {
+    position: relative;
+    display: inline-block;
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+a:link {
+    text-decoration: none;
+  }
+li{
+    text-decoration: none;
+}
+  h1,.me {
+    text-align: center;
+  }
+.det-img{
+    height: 300px;
+    width: 30%;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+.font-link {
+ 
+    font-family: 'Monoton', cursive;
+  }
+  hr {display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    height:3px;
+color:blue;}
