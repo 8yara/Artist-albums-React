@@ -9,4 +9,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  
 to run the database:
 npm install -g json-server
+
 json-server --watch db.json --port 3003
